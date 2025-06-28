@@ -75,7 +75,9 @@ A vibrant, one-page website for a pizza ordering concept, complete with responsi
 - Utilizes ScrollReveal.js for interactive scrolling effects.
 - Visually appealing design for a food service.
 
-6. Net Banking Website
+---
+
+### 6. Net Banking Website
    "NetBanking" is a web application allowing users to securely log in, view their total balance, access statements, transfer funds, take out loans, and delete accounts. It incorporates local storage for saving user details for demonstration purposes.
 
 **Features:**
