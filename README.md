@@ -1,108 +1,100 @@
-HTML, CSS, and JavaScript Projects Portfolio
-This repository showcases a collection of diverse projects built using HTML, CSS, and JavaScript, demonstrating various web development skills including API integration, responsive design, animations, basic game development, and more.
+# HTML, CSS, and JavaScript Projects Portfolio
 
-1. Forkify Recipe App
+This repository showcases a collection of five diverse projects built using HTML, CSS, and JavaScript, demonstrating various web development skills including API integration, responsive design, animations, and basic game development.
+
+---
+
+### 1. Forkify Recipe App
+
 This is a comprehensive recipe application where users can search for recipes using an external API. It implements a basic MVC (Model-View-Controller) architectural pattern.
 
-Features:
+**Features:**
 
-Recipe Search: Find recipes by searching for ingredients or dish names.
+- **Recipe Search:** Find recipes by searching for ingredients or dish names.
+- **Bookmarks:** Save your favorite recipes for quick access.
+- **Custom Recipes:** Add and manage your own unique recipes.
+- **API Integration:** Fetches recipe data from a public API.
 
-Bookmarks: Save your favorite recipes for quick access.
+**[View Live Demo Here](https://forkify-tasty-recipe.netlify.app/)**
 
-Custom Recipes: Add and manage your own unique recipes.
+---
 
-API Integration: Fetches recipe data from a public API.
+### 2. Pig Game
 
-Live Demo: Visit Live Demo
-
-2. Pig Game
 A simple, classic "Pig Game" implemented with JavaScript. It's a dice game where two players race to reach 100 points.
 
-Features:
+**Features:**
 
-Two-player turn-based gameplay.
+- Two-player turn-based gameplay.
+- Roll dice to accumulate points.
+- Hold points to pass turn.
+- Lose current turn points if a 1 is rolled.
 
-Roll dice to accumulate points.
+**[View Live Demo Here](https://pig-game-design.netlify.app/)**
 
-Hold points to pass turn.
+---
 
-Lose current turn points if a 1 is rolled.
+### 3. Responsive Car Project
 
-Live Demo: Visit Live Demo
-
-3. Responsive Car Project
 A modern, one-page website designed for a car showcase. It features a fully responsive layout that adapts to various screen sizes and includes scroll animations for an enhanced user experience.
 
-Features:
+**Features:**
 
-Single-page design.
+- Single-page design.
+- Responsive layout for mobile, tablet, and desktop.
+- ScrollReveal.js for smooth scroll animations.
+- Clean and appealing UI/UX.
 
-Responsive layout for mobile, tablet, and desktop.
+**[View Live Demo on Netlify](https://responsive-ignistorm-car-website.netlify.app/)**
 
-ScrollReveal.js for smooth scroll animations.
+---
 
-Clean and appealing UI/UX.
+### 4. Responsive Coffee Website
 
-Live Demo: Visit Live Demo
-
-4. Responsive Coffee Website
 A sleek, one-page website for a coffee shop, designed with responsiveness and engaging animations in mind.
 
-Features:
+**Features:**
 
-Single-page layout.
+- Single-page layout.
+- Fully responsive across devices.
+- Dynamic animations using ScrollReveal.js.
+- Modern and inviting design.
 
-Fully responsive across devices.
+**[View Live Demo on Netlify](https://starcoffee-responsive-website.netlify.app/)**
 
-Dynamic animations using ScrollReveal.js.
+---
 
-Modern and inviting design.
+### 5. Responsive Pizza App
 
-Live Demo: Visit Live Demo
-
-5. Responsive Pizza App
 A vibrant, one-page website for a pizza ordering concept, complete with responsive design and interactive scroll animations.
 
-Features:
+**Features:**
 
-One-page website structure.
-
-Adapts seamlessly to different screen sizes.
-
-Utilizes ScrollReveal.js for interactive scrolling effects.
-
-Visually appealing design for a food service.
-
-Live Demo: Visit Live Demo
+- One-page website structure.
+- Adapts seamlessly to different screen sizes.
+- Utilizes ScrollReveal.js for interactive scrolling effects.
+- Visually appealing design for a food service.
 
 6. Net Banking Website
-"NetBanking" is a web application allowing users to securely log in, view their total balance, access statements, transfer funds, take out loans, and delete accounts. It incorporates local storage for saving user details for demonstration purposes.
+   "NetBanking" is a web application allowing users to securely log in, view their total balance, access statements, transfer funds, take out loans, and delete accounts. It incorporates local storage for saving user details for demonstration purposes.
 
-Features:
+**Features:**
 
-User authentication (using pre-defined demo accounts).
+- User authentication (using pre-defined demo accounts).
+- View account balance.
+- Access transaction statements.
+- Transfer funds to other demo accounts.
+- Request loans (simplified logic).
+- Delete account functionality.
+- User data persistence using Local Storage (for demo only, not for production).
 
-View account balance.
+**Demo Accounts:**
 
-Access transaction statements.
+- Account 1: username: js, password: 1111
+- Account 2: username: jd, password: 2222
+- Account 3: username: stw, password: 3333
+- Account 4: username: ss, password: 4444
 
-Transfer funds to other demo accounts.
+**[View Live Demo Here](https://netbanking-website.netlify.app/)**
 
-Request loans (simplified logic).
-
-Delete account functionality.
-
-User data persistence using Local Storage (for demo only, not for production).
-
-Demo Accounts:
-
-Account 1: username: js, password: 1111
-
-Account 2: username: jd, password: 2222
-
-Account 3: username: stw, password: 3333
-
-Account 4: username: ss, password: 4444
-
-Live Demo: Visit Net Banking Live Demo on Netlify
+---
