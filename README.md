@@ -42,7 +42,7 @@ A modern, one-page website designed for a car showcase. It features a fully resp
 * ScrollReveal.js for smooth scroll animations.
 * Clean and appealing UI/UX.
 
-**[View Live Demo on Netlify](https://responsive-ignistorm-car-website.netlify.app/)
+**[View Live Demo on Netlify](https://responsive-ignistorm-car-website.netlify.app/)**
 
 ---
 
@@ -56,7 +56,7 @@ A sleek, one-page website for a coffee shop, designed with responsiveness and en
 * Dynamic animations using ScrollReveal.js.
 * Modern and inviting design.
 
-**[View Live Demo on Netlify](https://starcoffee-responsive-website.netlify.app/)** ---
+**[View Live Demo on Netlify](https://starcoffee-responsive-website.netlify.app/)**
 
 ---
 
