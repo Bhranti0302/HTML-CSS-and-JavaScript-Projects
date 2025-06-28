@@ -14,7 +14,7 @@ This is a comprehensive recipe application where users can search for recipes us
 * **Custom Recipes:** Add and manage your own unique recipes.
 * **API Integration:** Fetches recipe data from a public API.
 
-**Live Demo:** [Add Forkify Live Link Here](https://bhranti0302.github.io/HTML-CSS-and-JavaScript-Projects/forkify-recipe-app-master/)
+**[View Live Demo Here](https://forkify-tasty-recipe.netlify.app/)**
 
 ---
 
@@ -28,7 +28,7 @@ A simple, classic "Pig Game" implemented with JavaScript. It's a dice game where
 * Hold points to pass turn.
 * Lose current turn points if a 1 is rolled.
 
-**Live Demo:** [Add Pig Game Live Link Here](https://bhranti0302.github.io/HTML-CSS-and-JavaScript-Projects/pig-game-master/)
+**[View Live Demo Here](https://pig-game-design.netlify.app/)**
 
 ---
 
@@ -42,7 +42,7 @@ A modern, one-page website designed for a car showcase. It features a fully resp
 * ScrollReveal.js for smooth scroll animations.
 * Clean and appealing UI/UX.
 
-**Live Demo:** [Add Responsive Car Project Live Link Here](https://bhranti0302.github.io/HTML-CSS-and-JavaScript-Projects/responsive-car-website-main/)
+**[View Live Demo on Netlify] (https://responsive-ignistorm-car-website.netlify.app/)
 
 ---
 
@@ -56,7 +56,7 @@ A sleek, one-page website for a coffee shop, designed with responsiveness and en
 * Dynamic animations using ScrollReveal.js.
 * Modern and inviting design.
 
-**Live Demo:** [Add Responsive Coffee Website Live Link Here](https://bhranti0302.github.io/HTML-CSS-and-JavaScript-Projects/responsive-coffee-website-main/)
+**[View Live Demo on Netlify] (https://starcoffee-responsive-website.netlify.app/)** ---
 
 ---
 
@@ -70,8 +70,6 @@ A vibrant, one-page website for a pizza ordering concept, complete with responsi
 * Utilizes ScrollReveal.js for interactive scrolling effects.
 * Visually appealing design for a food service.
 
-**Live Demo:** [Add Responsive Pizza App Live Link Here](https://bhranti0302.github.io/HTML-CSS-and-JavaScript-Projects/responsive-pizza-website-main%20(2)/)
+**[View Live Demo Here](https://responsive-pizza-webpage.netlify.app/)**
 
 ---
-
-**Note:** The live demo links provided above are placeholders assuming you will host these projects using GitHub Pages. Once your repository is public and GitHub Pages is set up for each project (by ensuring each project's `index.html` is at the root of its respective subfolder), you can update these links to the actual live URLs. Remember that your GitHub Pages URL will typically follow the format `https://yourusername.github.io/your-repository-name/your-project-folder/`.
